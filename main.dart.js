@@ -50761,7 +50761,7 @@ for(l=m.length,k=null,j=0,i="\ud83d\udccb Mi plan \xb7 Valdeolmos-Alalpardo\n";j
 g=h.b
 if(g!==k){i=i+"\n"+(A.jG(g).toUpperCase()+"\n")
 k=g}f=h.c
-i+="  "+(f==null?"--:--":f)+" \xb7 "+h.e+"\n"}m=i+"\n\ud83d\udcf2 letifico.github.io\n"
+i+="  "+(f==null?"--:--":f)+" \xb7 "+h.e+"\n"}m=i+"\n\ud83d\udcf2 mipuebloapp.github.io/alalpardo\n"
 n=A.dR("https://wa.me/?text="+A.q6(2,B.c.qM(m.charCodeAt(0)==0?m:m),B.ak,!1),0,null)
 p=4
 s=7
@@ -51657,7 +51657,7 @@ a=c.e
 if(a!=null){a=c.a.c.a.i(0,a)
 r=a==null?b:a.b}else r=b
 a=A.DK(b,c.gaeY(),16,B.f3,new A.aBp(c))
-a0=A.H3(u.d,"com.sanluis.programa")
+a0=A.H3(u.d,"demo.app.pueblo")
 q=A.b([],t._I)
 for(p=s.length,o=0;o<s.length;s.length===p||(0,A.n)(s),++o){n=s[o]
 m=n.c
