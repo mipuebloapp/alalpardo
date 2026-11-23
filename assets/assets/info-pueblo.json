@@ -1,0 +1,58 @@
+{
+ "titulo": "Información de Valdeolmos-Alalpardo",
+ "secciones": [
+  {
+   "titulo": "Teléfonos útiles",
+   "icono": "phone",
+   "items": [
+    {
+     "nombre": "Ayuntamiento de Valdeolmos-Alalpardo",
+     "telefono": "91 620 21 53",
+     "direccion": "C/ Alcalá, 4 · Alalpardo"
+    },
+    {
+     "nombre": "Dependencias municipales en Valdeolmos",
+     "telefono": "91 620 26 49",
+     "direccion": "Plaza Nacional, 6 · Valdeolmos",
+     "nota": "Asistenta social y recaudación"
+    },
+    {
+     "nombre": "Emergencias",
+     "telefono": "112",
+     "nota": "Urgencias sanitarias, bomberos y policía"
+    },
+    {
+     "nombre": "Guardia Civil (emergencias)",
+     "telefono": "062"
+    }
+   ]
+  },
+  {
+   "titulo": "Salud y educación",
+   "icono": "services",
+   "items": [
+    {
+     "nombre": "Consultorio de Valdeolmos",
+     "telefono": "91 620 26 49",
+     "direccion": "C/ de la Fuente, 3 · Valdeolmos",
+     "nota": "Depende del Centro de Salud de Algete"
+    },
+    {
+     "nombre": "Escuela Infantil-Casa de Niños Alalpardo",
+     "telefono": "91 620 26 16",
+     "direccion": "C/ Alcalá, 25 · Alalpardo"
+    }
+   ]
+  },
+  {
+   "titulo": "Créditos de las fotos",
+   "icono": "info",
+   "items": [
+    {
+     "nombre": "Plaza de toros de Alalpardo",
+     "nota": "Foto de Rodelar (Wikimedia Commons) · Licencia CC BY-SA 4.0"
+    }
+   ]
+  }
+ ]
+}
