@@ -49368,7 +49368,7 @@ k=A.jG(l.b)
 j=o.a.c.c
 j=j!=null?" \xb7 "+j+" h":""
 j=l.e+"\n"+("\ud83d\udcc5 "+k+j+"\n")
-l=(o.gw5()!=null?j+("\ud83d\udccd "+A.k(o.gw5())+"\n"):j)+"\n\ud83d\udcf2 letifico.github.io/alalpardo\n"
+l=(o.gw5()!=null?j+("\ud83d\udccd "+A.k(o.gw5())+"\n"):j)+"\n\ud83d\udcf2 mipuebloapp.github.io/alalpardo\n"
 n=A.dR("https://wa.me/?text="+A.q6(2,B.c.qM(l.charCodeAt(0)==0?l:l),B.ak,!1),0,null)
 q=3
 s=6
@@ -49967,7 +49967,7 @@ s=q}for(;;)switch(s){case 0:for(n=a.length,m=null,l=0,k="\ud83d\udccb Mi plan en
 i=j.b
 if(i!==m){k=k+"\n"+(A.jG(i).toUpperCase()+"\n")
 m=i}h=j.c
-k+="  "+(h==null?"--:--":h)+" \xb7 "+j.e+"\n"}n=k+"\n\ud83d\udcf2 letifico.github.io/alalpardo\n"
+k+="  "+(h==null?"--:--":h)+" \xb7 "+j.e+"\n"}n=k+"\n\ud83d\udcf2 mipuebloapp.github.io/alalpardo\n"
 o=A.dR("https://wa.me/?text="+A.q6(2,B.c.qM(n.charCodeAt(0)==0?n:n),B.ak,!1),0,null)
 q=3
 s=6
